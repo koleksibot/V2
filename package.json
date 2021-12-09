@@ -1,5 +1,5 @@
 {
-  "name": "bot-whatsapp",
+  "name": "V2",
   "version": "1.0.0",
   "description": "Simple WhatsApp Bot With NodeJS",
   "main": "index.js",
@@ -35,6 +35,6 @@
     "start": "node index.js",
     "server": "node . --server"
   },
-  "author": "caliph71",
+  "author": "Koleksibot",
   "license": "ISC"
 }
