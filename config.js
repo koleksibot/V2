@@ -1,11 +1,11 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['628566732166']
-global.autoread = false
+global.owner = ['62895369318181']
+global.autoread = true
 global.selfmode = false
 global.autobio = false // or node . --autobio
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = 'Rikka-Botz WhatsApp'
+global.fakereplyt = 'LULZGHOST-Bot WhatsApp.inc'
 global.mess = {
 group : {
 welcome : `Welcome @user\n\nSelamat datang di grup @subject`,
@@ -17,7 +17,7 @@ error : 'Terjadi Kesalahan',
 success: 'Sukses...'
 }
 global.prefix = '.'
-global.author = '@fathur1_'
+global.author = '@LulzGhost-Team'
 global.packname = 'WhatsApp Bot'
 
 
@@ -36,7 +36,7 @@ global.APIs = { // API Prefix
 }
 
 global.APIKeys = { // APIKey Here
-   'http://api.vhtear.com': 'YOUR-APIKEY',
+   'http://api.vhtear.com': 'Jsieu8287362jshre82',
    'https://api.lolhuman.xyz': 'YOUR-APIKEY',
   'https://api.xteam.xyz': 'YOUR-APIKEY'
 ,
