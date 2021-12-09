@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="//github.com/caliph91/bot-whatsapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caliph91&repo=bot-whatsapp&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koleksibot&repo=V2&theme=tokyonight" />
    </a>
 </p>
 <p align="center">
-<a href="//github.com/caliph91"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
+<a href="//github.com/koleksibot"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
 </p>
 <p align="center">
 <a href="https://javascript.com"><img src="https://img.shields.io/badge/Made%20With-javascript-cyan.svg?style=for-the-badge&logo=javascript"/><a/>
@@ -23,8 +23,8 @@
 # Termux
 ```bash
 > pkg install git -y
-> git clone https://github.com/caliph91/bot-whatsapp
-> cd bot-whatsapp
+> git clone https://github.com/koleksibot/V2.git
+> cd V2
 > bash install.sh
 > node index
 ```
@@ -32,8 +32,8 @@
 # Ubuntu
 ```bash
 > apt install git -y
-> git clone https://github.con/caliph91/bot-whatsapp
-> cd bot-whatsapp
+> git clone https://github.com/koleksibot/V2.git
+> cd V2
 > bash install.sh
 > node index
 ```
